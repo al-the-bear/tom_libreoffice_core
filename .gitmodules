@@ -12,4 +12,5 @@
 	path = translations
 	url = ../translations
 	branch = .
-    shallow = true    update = none
+    shallow = true
+    update = none
